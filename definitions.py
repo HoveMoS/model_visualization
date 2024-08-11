@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_breast_cancer
 from sklearn.metrics import roc_auc_score,roc_curve,auc,accuracy_score,classification_report,confusion_matrix,precision_recall_curve
-import lightgbm as lgb
+#import lightgbm as lgb
 import xgboost as xgb
 import matplotlib.pyplot as plt
 import warnings
